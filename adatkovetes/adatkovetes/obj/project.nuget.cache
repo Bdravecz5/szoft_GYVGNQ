@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsDMPsbEwscgsVexBdx8GdHJ7/Mz4LxI3UrBs85excwoY98LoDm8L7Sms+RnaHqjnhqrz8Hc8rnawQ4wTCZryw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gyvgnq\\source\\repos\\szoft_GYVGNQ\\adatkovetes\\adatkovetes\\adatkovetes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gyvgnq\\.nuget\\packages\\csvhelper\\31.0.3\\csvhelper.31.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
